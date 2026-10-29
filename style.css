@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 24px;
+  background-color: #f2f5f9;
+  color: #222;
+}
+
+h1 {
+  color: #17365d;
+  text-align: center;
+}
+
+.event {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 16px;
+  background-color: white;
+  border-left: 5px solid #2878c7;
+  border-radius: 6px;
+}
+
+.event h2 {
+  margin-top: 0;
+  color: #2878c7;
+}
